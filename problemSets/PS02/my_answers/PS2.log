@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.14)  19 FEB 2023 12:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.14)  19 FEB 2023 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -874,235 +874,235 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (65.96992pt too wide) in paragraph at lines 220--220
+Overfull \hbox (65.96992pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 climateSupport$choice_binary <- ifelse(climateSupport$choic
 e == "Supported", 1, 0)[] 
  []
 
 
-Overfull \hbox (22.7449pt too wide) in paragraph at lines 220--220
+Overfull \hbox (22.7449pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 I fit a generalised linear model with 'choice' as the outco
 me variable, and[] 
  []
 
 [2]
-Overfull \hbox (22.7449pt too wide) in paragraph at lines 220--220
+Overfull \hbox (22.7449pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 The intercept has a log odds value of 0.499. This suggests 
 that individuals[] 
  []
 
 
-Overfull \hbox (16.5699pt too wide) in paragraph at lines 220--220
+Overfull \hbox (16.5699pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 have a likelihood of about 62% to support an environmental 
 agreement which[] 
  []
 
 
-Overfull \hbox (4.2199pt too wide) in paragraph at lines 220--220
+Overfull \hbox (4.2199pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 is agreed by 20 of 192 countries, but which has no sanction
 s for missing[] 
  []
 
 
-Overfull \hbox (47.44492pt too wide) in paragraph at lines 220--220
+Overfull \hbox (47.44492pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 The  coefficient estimate for 'countries.L' is positive, an
 d highly significant[] 
  []
 
 
-Overfull \hbox (41.26991pt too wide) in paragraph at lines 220--220
+Overfull \hbox (41.26991pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 (p<0.001). This suggests that  having 80 participating coun
 tries is positively[] 
  []
 
 
-Overfull \hbox (35.09491pt too wide) in paragraph at lines 220--220
+Overfull \hbox (35.09491pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 associated with support for an agreement, compare to the ba
 seline category of[] 
  []
 
 
-Overfull \hbox (4.2199pt too wide) in paragraph at lines 220--220
+Overfull \hbox (4.2199pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 However, the coefficient estimate for 'countries.Q' is not 
 statistically[] 
  []
 
 
-Overfull \hbox (28.9199pt too wide) in paragraph at lines 220--220
+Overfull \hbox (28.9199pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 significant, suggesting that an agreement having 160 countr
 ies participating[] 
  []
 
 
-Overfull \hbox (10.3949pt too wide) in paragraph at lines 220--220
+Overfull \hbox (10.3949pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 does not have a significant effect on likelihood to support
  an agreement,[] 
  []
 
 
-Overfull \hbox (10.3949pt too wide) in paragraph at lines 220--220
+Overfull \hbox (10.3949pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 The three coefficient estimates for the three levels of san
 ctions are all[] 
  []
 
 
-Overfull \hbox (16.5699pt too wide) in paragraph at lines 220--220
+Overfull \hbox (16.5699pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 highly statistically significant (p<0.001). Coefficients fo
 r 'sanctions.L'[] 
  []
 
 
-Overfull \hbox (4.2199pt too wide) in paragraph at lines 220--220
+Overfull \hbox (4.2199pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 and 'sanctions.Q' are negative, whilst the coefficient for 
 'sanctions.C'[] 
  []
 
 
-Overfull \hbox (22.7449pt too wide) in paragraph at lines 220--220
+Overfull \hbox (22.7449pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 is positive. This suggests that the level of sanctions for 
 missing emission[] 
  []
 
 
-Overfull \hbox (22.7449pt too wide) in paragraph at lines 220--220
+Overfull \hbox (22.7449pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 reduction targets are negatively associated with likelihood
  for individuals[] 
  []
 
 
-Overfull \hbox (16.5699pt too wide) in paragraph at lines 220--220
+Overfull \hbox (16.5699pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 to support an agreement at  5% and 15% sanctions, relative 
 to the baseline[] 
  []
 
 
-Overfull \hbox (10.3949pt too wide) in paragraph at lines 220--220
+Overfull \hbox (10.3949pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 with support for an agreement at 5% and 15% sanctions, alth
 ough the trend[] 
  []
 
 [3]
-Overfull \hbox (10.3949pt too wide) in paragraph at lines 220--220
+Overfull \hbox (10.3949pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 First, I create the null model, with only an intercept term
 , which I will[] 
  []
 
 
-Overfull \hbox (35.09491pt too wide) in paragraph at lines 220--220
+Overfull \hbox (35.09491pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 P < 0.05, therefore we can reject the global null hypothesi
 s, that all of the[] 
  []
 
 
-Overfull \hbox (10.3949pt too wide) in paragraph at lines 220--220
+Overfull \hbox (10.3949pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 coefficients of the independent variables in the model are 
 equal to zero.[] 
  []
 
 
-Overfull \hbox (35.09491pt too wide) in paragraph at lines 220--220
+Overfull \hbox (35.09491pt too wide) in paragraph at lines 222--222
  []\OT1/cmtt/m/n/12 Therefore, we can conclude that at least one of the coeffic
 ients in the model[] 
  []
 
 
-Overfull \hbox (36.24458pt too wide) in paragraph at lines 241--241
+Overfull \hbox (36.24458pt too wide) in paragraph at lines 243--243
  []\OT1/cmtt/m/n/12 log(odds) when sanctions are 5% = 0.498607 -0.067615 -0.002
 386 = 0.428606[] 
  []
 
 
-Overfull \hbox (42.41959pt too wide) in paragraph at lines 241--241
+Overfull \hbox (42.41959pt too wide) in paragraph at lines 243--243
  []\OT1/cmtt/m/n/12 log(odds) when sanctions are 15% = 0.498607 -0.044187 -0.00
 2386 = 0.452034[] 
  []
 
 
-Overfull \hbox (30.06958pt too wide) in paragraph at lines 241--241
+Overfull \hbox (30.06958pt too wide) in paragraph at lines 243--243
  []\OT1/cmtt/m/n/12 Next I use the two sets of log odds to calculate the differ
 ence in odds:[] 
  []
 
 [4]
-Overfull \hbox (54.76959pt too wide) in paragraph at lines 258--258
+Overfull \hbox (54.76959pt too wide) in paragraph at lines 260--260
  []\OT1/cmtt/m/n/12 Then I use the log odds to calculate the probability that a
 n individual will[] 
  []
 
 
-Overfull \hbox (48.59459pt too wide) in paragraph at lines 258--258
+Overfull \hbox (48.59459pt too wide) in paragraph at lines 260--260
  []\OT1/cmtt/m/n/12 support a policy if there are 80 countries participating wi
 th no sanctions:[] 
  []
 
 
-Overfull \hbox (17.71957pt too wide) in paragraph at lines 305--305
+Overfull \hbox (17.71957pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 It is possible that model fit could be improved by the incl
 usion of an[] 
  []
 
 
-Overfull \hbox (30.06958pt too wide) in paragraph at lines 305--305
+Overfull \hbox (30.06958pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 interaction effect. When an interaction effect is included 
 in the model,[] 
  []
 
 
-Overfull \hbox (23.89458pt too wide) in paragraph at lines 305--305
+Overfull \hbox (23.89458pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 it introduces a new term that represents the combined effec
 t of the two[] 
  []
 
 
-Overfull \hbox (36.24458pt too wide) in paragraph at lines 305--305
+Overfull \hbox (36.24458pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 independent variables on the dependent variable. This new t
 erm can change[] 
  []
 
 
-Overfull \hbox (23.89458pt too wide) in paragraph at lines 305--305
+Overfull \hbox (23.89458pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 enhancing or diminishing the relationship between the other
  independent[] 
  []
 
 
-Overfull \hbox (73.2946pt too wide) in paragraph at lines 305--305
+Overfull \hbox (73.2946pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 variables and independent variable, depending on the nature
  of the interaction.[] 
  []
 
 
-Overfull \hbox (54.76959pt too wide) in paragraph at lines 305--305
+Overfull \hbox (54.76959pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 In order to test if the inclusion of an interaction effect 
 is appropriate in[] 
  []
 
 
-Overfull \hbox (42.41959pt too wide) in paragraph at lines 305--305
+Overfull \hbox (42.41959pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 likelihood_model_interaction <- glm(choice_binary ~ countri
 es * sanctions,[] 
  []
 
 
-Overfull \hbox (5.36957pt too wide) in paragraph at lines 305--305
+Overfull \hbox (5.36957pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 deviance_interaction_model <- deviance(likelihood_model_int
 eraction)[] 
  []
 
 
-Overfull \hbox (5.36957pt too wide) in paragraph at lines 305--305
+Overfull \hbox (5.36957pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 lr_stat <- abs(deviance_interaction_model - deviance_origin
 al_model)[] 
  []
 
 [5]
-Overfull \hbox (54.76959pt too wide) in paragraph at lines 305--305
+Overfull \hbox (54.76959pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 Because p>0.05, I fail to reject the null hypothesis, that 
 the model without[] 
  []
 
 
-Overfull \hbox (42.41959pt too wide) in paragraph at lines 305--305
+Overfull \hbox (42.41959pt too wide) in paragraph at lines 307--307
  []\OT1/cmtt/m/n/12 including interaction is sufficient, and that it is unneces
 sary to include[] 
  []
@@ -1126,7 +1126,7 @@ st/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmtt12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-supe
 r/sfrm1200.pfb>
-Output written on PS2.pdf (6 pages, 78104 bytes).
+Output written on PS2.pdf (6 pages, 78114 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream

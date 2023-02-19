@@ -24,6 +24,8 @@ pkgTest <- function(pkg){
 }
 
 # here is where you load any necessary packages
+install.packages("stargazer")
+library(stargazer)
 # ex: stringr
 # lapply(c("stringr"),  pkgTest)
 
@@ -53,6 +55,9 @@ likelihood_model <-glm(choice_binary ~ countries + sanctions,
 
 summary(likelihood_model)
 
+stargazer(likelihood_model, title = "Agreement Support Likelihood Model results"
+          , type = "text")
+
 
 #Conducting the GLobal Null Hypothesis test
 #First, I create the null model which I will test my model against:
@@ -64,6 +69,9 @@ null_test <- anova(null_model, likelihood_model, test = "Chisq")
 
 print(null_test)
 # p = 2.2e-16
+stargazer(null_test, title = "Global Null Hypothesis test"
+          , type = "text")
+
 
 # Calculating likelihood of success for intercept
 exp(0.498607) / (1 + exp(0.498607))
@@ -82,12 +90,14 @@ exp(0.498607) / (1 + exp(0.498607))
 difference_in_odds <- exp(0.428606) - exp(0.452034)
 difference_in_odds
 exp(0.428606)
+# [1] 1.535116
 
 #Q2 (b) calculating log odds if 80 countries participating, no sanctions
 0.498607 + 0.112700
 # [1] 0.611307
 probability <- 1/(1 + exp(1)^(-0.611307))
 probability
+# [1] 0.6482389
 
 #Q2 (c) conducting likelihood ratio test
 # firstly, I create a model with the interaction effect included:
@@ -107,9 +117,10 @@ lr_stat
 df_diff <- df.residual(likelihood_model) - df.residual(likelihood_model_interaction)
 
 # Finally, I calculate the p-value:
-p_value <- pchisq(test_statistic, df_diff, lower.tail = FALSE)
+p_value <- pchisq(lr_stat, df_diff, lower.tail = FALSE)
 p_value
 # [1] 0.9526835
 #Because p>0.05, I fail to reject the null hypothesis, that the model without
 # including interaction is sufficient, and that it is unnecessary to include
 # an interaction effect.
+
