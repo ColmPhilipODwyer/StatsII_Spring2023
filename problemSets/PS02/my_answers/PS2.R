@@ -47,15 +47,18 @@ climateSupport$choice_binary <- ifelse(climateSupport$choice == "Supported", 1, 
 
 # I fit a generalised linear model with 'choice' as the outcome variable, and
 # 'countries' and 'sanctions' as the predictor variable.
-# I use a binomial distribution due to the dependent variable being a binary
-# outcome.
 
 likelihood_model <-glm(choice_binary ~ countries + sanctions,
                        data = climateSupport)
 
 summary(likelihood_model)
 
+
+#Conducting the GLobal Null Hypothesis test
+#First, I create the null model which I will test my model against:
 null_model <- glm(choice_binary ~ 1, data = climateSupport)
+
+
 
 null_test <- anova(null_model, likelihood_model, test = "Chisq")
 
@@ -96,12 +99,12 @@ deviance_original_model <- deviance(likelihood_model)
 deviance_interaction_model <- deviance(likelihood_model_interaction)
 
 # I calculate the likelihood ratio statistic:
-test_statistic <- abs(deviance_interaction_model - deviance_original_model)
-test_statistic
+lr_stat <- abs(deviance_interaction_model - deviance_original_model)
+lr_stat
 # [1] 1.598523
 
 # I calculate the difference in the degrees of freedom:
-df_diff <- df <- df.residual(likelihood_model) - df.residual(likelihood_model_interaction)
+df_diff <- df.residual(likelihood_model) - df.residual(likelihood_model_interaction)
 
 # Finally, I calculate the p-value:
 p_value <- pchisq(test_statistic, df_diff, lower.tail = FALSE)
